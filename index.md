@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog! 
 
-"Testing this Github pages thing."
+content: "Testing this Github pages thing."
 ---
 
