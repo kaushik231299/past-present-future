@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog! 
 
-Testing this Github pages thing :)
+Testing this Github pages thing.
 ---
 
